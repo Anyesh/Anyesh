@@ -6,13 +6,13 @@
 - 📫 How to reach me: Just email me 😉
 - ⚡ Fun fact: I still know NOTHING!!
 
-
+---
 
 <a href="https://github.com/Anyesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyesh" />
 </a>
 <a href="https://github.com/Anyesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyesh&show_icons=true&theme=vue&hide=jupyter-notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyesh&show_icons=true&theme=vue&hide=Jupyter Notebook" />
 </a>
 
 
