@@ -1,11 +1,5 @@
 ### Hi there I'm Anish 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
----
 
 - 🔭 I’m currently working on: AI-based application development
 - 🌱 I’m currently learning: Bayesian Machine Learning
@@ -16,3 +10,9 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyesh&layout=compact)
+
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
