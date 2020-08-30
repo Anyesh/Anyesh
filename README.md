@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I still know NOTHING!!
 
 
-### Hi there I'm Anish 👋
 
 <a href="https://github.com/Anyesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyesh" />
