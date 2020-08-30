@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyesh" />
 </a>
 <a href="https://github.com/Anyesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyesh&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anyesh&show_icons=true&theme=vue&hide=jupyter-notebook" />
 </a>
 
 
