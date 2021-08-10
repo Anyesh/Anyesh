@@ -7,3 +7,11 @@
 - ⚡ Fun fact: I don't know ANYTHING!!
 
 
+<p align="center">
+  <a href=#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=Anyesh&theme=nord&row=2&column=3">
+  </a>
+</p>
+
+<h3 align="center">🏆 Github Profile Trophy</h3>
+
